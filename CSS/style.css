@@ -1,0 +1,180 @@
+.container{
+    width: 1280px;
+    margin: auto;
+
+}
+
+/* Header - start */
+
+header{
+    width: 1280px;
+    
+}
+
+
+.name{
+    font-size: 70px;
+    font-weight: bold;
+    display: inline-block;
+    height: 94px;
+   
+    vertical-align: middle;
+    margin-left: 44px;
+
+
+}
+
+
+.navigation{
+    display: inline-block;
+    margin: 63px 0px 61px 74px;
+    
+    vertical-align: middle;
+}
+
+
+.header1{
+    font-size: 18px;
+    font-weight: lighter;
+    display: inline-block;
+    margin-left: 90px;
+    color: #7F7F7F;
+    
+    
+}
+
+.blog{
+    font-size: 18px;
+    font-weight: lighter;
+    display: inline-block;
+    color: #7F7F7F;
+    
+}
+
+.mignifier{
+
+    margin: 67px 62px 67px 182px;
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+ /* Header - finish */
+
+
+ /* Section - Start */
+
+section{
+    width: 1280px;
+    
+    background-color: #306B34;
+}
+
+.mainpic{
+    padding: 174px 89px 152px 95px;
+    display: inline-block;
+}
+
+
+.firsttext{
+    display: inline-block;
+    width: 306px;
+    height: 394px;
+    vertical-align: top;
+    margin-top: 211px;
+   
+    
+}
+
+
+
+.text1{
+    font-size: 40px;
+    padding-bottom: 50px;
+    font-weight: bold;
+    text-align: middle;
+    
+}
+
+
+.text2{
+    font-size: 20px;
+    color: white;
+    
+}
+ 
+
+/* Section - finish */
+
+
+
+/* Article - start */
+
+
+article{
+    
+    background-color: white;
+    
+}
+
+
+.title{
+    font-size: 40px;
+    margin: 75px 500px 75px 550px;
+    width: 273px;
+    
+}
+
+.text3{
+    font-size: 20px;
+    padding:0px 138px 0px 184px; 
+    text-align: center;
+    
+
+}
+
+
+button{
+    margin: 69px 542px 33px 590px;
+    width: 148px;
+    height: 48px;
+    background-color: #36413E;
+    font-size: 12px;
+    color: white;
+    display: inline-block;
+}
+
+
+/* Article - finish */
+
+
+
+/* Footer - start  */
+
+
+footer{
+    
+    background-color: #306B34;
+}
+
+
+.footertext{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding: 18px 0px 23px 75px;
+    display: inline-block;
+}
+
+.copyright{
+    font-size: 12px;
+    color: white;
+    padding: 24px 110px 23px 725px;
+    display: inline-block;
+}
+
+
+
+
+/* footer - finish  */
